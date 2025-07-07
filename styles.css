@@ -1,5 +1,5 @@
 body {
-  font-family: 'Proxima Nova', sans-serif;
+  font-family: 'Proxima Nova', san-serif;
   margin: 0;
   padding: 0;
   line-height: 1.6;
@@ -9,7 +9,7 @@ body {
 }
 
 .hero {
-  background: url('https://cdn2.dropmarkusercontent.com/52043/9209ff5fb33d9396555e24f285712f5135eef4ae/JS_20140426_7154.jpg?Expires=1751694115&Signature=hp61MN6tvNcDzhi2i10oKc5JzooFHFIWCdhvO-kHSjjno0o7mQ9BJorvwlv3izKOezA14~QoUmFQz4fjMbCb2aHTj6ouzBmTNzmatM9DHFppmdEQ-y-u04C3QDZWPuERi8dnF40g853Gjln-mFhKvtvs8ypt45BgkQdRvOhCUY2YiEBeAJHxvJJN93rtHMK6M4NbwwvrGiFkpy1QLkxDAP96-kouFy01gCZiDw4w8w9duZJ67E84TtrQmDQwfmHvnhwaSTev~bm1QLXVYEnqExRgxdRM550NBRxRyxxq2~SDAFgidDWSXR~Q2ivwxyn6VjOtKWokgYpulfqCe2PPtg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ') no-repeat center center/cover;
+  background: url('https://lh3.googleusercontent.com/xp3pVBuDIe-5oubEY8mZML9I99912ZmVUv8pIi9r9C3PCKReUuIe4RQl8nh0iuDDbSrRp8wwDoHQsxK9OqyY7mwdSBdc2DLQiVfZJXEOHqKv9fN981KHFP6RcE3a76sqbgjAAYNs4kSRy6UtxDmi8TlciGexHKrz976fXJR8L0FqVSisQ4JiM9DfFsbywQ') no-repeat center center/cover;
   color: #fffaf0;
   padding: 100px 20px;
   position: relative;
