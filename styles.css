@@ -9,7 +9,9 @@ body {
 }
 
 .hero {
-  background: url('https://lh3.googleusercontent.com/xp3pVBuDIe-5oubEY8mZML9I99912ZmVUv8pIi9r9C3PCKReUuIe4RQl8nh0iuDDbSrRp8wwDoHQsxK9OqyY7mwdSBdc2DLQiVfZJXEOHqKv9fN981KHFP6RcE3a76sqbgjAAYNs4kSRy6UtxDmi8TlciGexHKrz976fXJR8L0FqVSisQ4JiM9DfFsbywQ') no-repeat center center/cover;
+  background: url('https://lh3.googleusercontent.com/xp3pVBuDIe-5oubEY8mZML9I99912ZmVUv8pIi9r9C3PCKReUuIe4RQl8nh0iuDDbSrRp8wwDoHQsxK9OqyY7mwdSBdc2DLQiVfZJXEOHqKv9fN981KHFP6RcE3a76sqbgjAAYNs4kSRy6UtxDmi8TlciGexHKrz976fXJR8L0FqVSisQ4JiM9DfFsbywQ') no-repeat;
+  background-size: cover;
+  background-position: center;
   color: #fffaf0;
   padding: 100px 20px;
   position: relative;
